@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a **Backend Developer** and **AI Enthusiast** 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FracodeDev&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FracodeDev&theme=dark&hide_border=true)<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FracodeDev&show_icons=true&theme=dark)
 
 ---
