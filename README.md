@@ -41,10 +41,10 @@ Welcome to my GitHub profile! I'm a **Backend Developer** and **AI Enthusiast** 
 ---
 
 ### 🔥 Public Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FracodeDev&repo=repo1&theme=dark)](https://github.com/FracodeDev/GFC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FracodeDev&repo=repo2&theme=dark)](https://github.com/FracodeDev/repo2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FracodeDev&repo=GFC&theme=dark)](https://github.com/FracodeDev/GFC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FracodeDev&repo=League-Of-Mafia&theme=dark)](https://github.com/FracodeDev/League-Of-Mafia)
 
-*(Replace `repo1` and `repo2` with your actual repository names)*
+*(Replace `GFC` and `League-Of-Mafia` with your actual repository names)*
 
 ---
 
