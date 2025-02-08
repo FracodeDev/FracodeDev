@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a **Backend Developer** and **AI Enthusiast** 
 ---
 
 ### 🔥 Public Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FracodeDev&repo=repo1&theme=dark)](https://github.com/FracodeDev/repo1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FracodeDev&repo=repo1&theme=dark)](https://github.com/FracodeDev/GFC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FracodeDev&repo=repo2&theme=dark)](https://github.com/FracodeDev/repo2)
 
 *(Replace `repo1` and `repo2` with your actual repository names)*
