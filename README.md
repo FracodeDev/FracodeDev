@@ -40,6 +40,19 @@ Welcome to my GitHub profile! I'm a **Backend Developer** and **AI Enthusiast** 
 
 ---
 
+### 🔥 Public Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FracodeDev&repo=repo1&theme=dark)](https://github.com/FracodeDev/repo1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FracodeDev&repo=repo2&theme=dark)](https://github.com/FracodeDev/repo2)
+
+*(Replace `repo1` and `repo2` with your actual repository names)*
+
+---
+
+### 📈 Skill Level Chart
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FracodeDev&layout=compact&theme=dark)
+
+---
+
 ### 📬 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mirzaeishahjahanabadi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FracodeDev)
